@@ -1,4 +1,4 @@
-# Jemon Golfin Portfolio
+# Jemon Golfin
 
 ## Projects
 

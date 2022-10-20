@@ -18,12 +18,12 @@ Week 4 Sketchbook
 
 <iframe src="./sketch5-4/" width="800" height="400"></iframe>
 
-Decription: \n
+Decription: <br>
 This is a sketch for my sketchbook about recursion.
 
 ### Week 9 Sketchbook
 
 <iframe src="./sketch9-1/" width="400" height="400"></iframe>
 
-Desscription: \n
+Desscription: <br>
 This is a sketch of winter snowfall.
